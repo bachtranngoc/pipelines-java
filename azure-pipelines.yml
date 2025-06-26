@@ -7,7 +7,7 @@ trigger:
 - main
 
 variables:
-  imageName: 'ubuntu-latest'
+  - template: pipeline-variables.yml
 
 pool:
   vmImage: $(imageName)
