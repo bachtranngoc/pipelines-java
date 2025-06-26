@@ -1,5 +1,5 @@
-
-# Contributing
+[![Build Status](https://dev.azure.com/gcca-migration/pipeline-learning/_apis/build/status%2Fbachtranngoc.pipelines-java?branchName=main)](https://dev.azure.com/gcca-migration/pipeline-learning/_build/latest?definitionId=10&branchName=main)
+# Contributing 
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
